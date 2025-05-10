@@ -1,0 +1,253 @@
+IndicatorCode,Indicator,ValueType,ParentLocationCode,ParentLocation,Location type,SpatialDimValueCode,Location,Period type,Period,IsLatestYear,Dim1 type,Dim1,Dim1ValueCode,Dim2 type,Dim2,Dim2ValueCode,Dim3 type,Dim3,Dim3ValueCode,DataSourceDimValueCode,DataSource,FactValueNumericPrefix,FactValueNumeric,FactValueUoM,FactValueNumericLowPrefix,FactValueNumericLow,FactValueNumericHighPrefix,FactValueNumericHigh,Value,FactValueTranslationID,FactComments,Language,DateModified
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,AFR,Africa,Country,AGO,Angola,Year,2010,TRUE,,,,,,,,,,,,,0,,,,,,0,,,EN,6/11/2013
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,AFR,Africa,Country,BDI,Burundi,Year,2013,TRUE,,,,,,,,,,,,,0.03,,,,,,0.03,,Only public sector data,EN,3/3/2014
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,AFR,Africa,Country,BDI,Burundi,Year,2010,FALSE,,,,,,,,,,,,,0.04,,,,,,0.04,,Only public sector data,EN,6/11/2013
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,AFR,Africa,Country,BEN,Benin,Year,2013,TRUE,,,,,,,,,,,,,0.11,,,,,,0.11,,Only public sector data,EN,3/3/2014
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,AFR,Africa,Country,BEN,Benin,Year,2010,FALSE,,,,,,,,,,,,,0.12,,,,,,0.12,,Only public sector data,EN,6/11/2013
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,AFR,Africa,Country,BFA,Burkina Faso,Year,2013,TRUE,,,,,,,,,,,,,0.05,,,,,,0.05,,,EN,3/3/2014
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,AFR,Africa,Country,BFA,Burkina Faso,Year,2010,FALSE,,,,,,,,,,,,,0.02,,,,,,0.02,,,EN,6/11/2013
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,AFR,Africa,Country,BWA,Botswana,Year,2013,TRUE,,,,,,,,,,,,,0.15,,,,,,0.15,,Only public sector data,EN,3/3/2014
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,AFR,Africa,Country,BWA,Botswana,Year,2010,FALSE,,,,,,,,,,,,,0.15,,,,,,0.15,,Only public sector data,EN,6/11/2013
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,AFR,Africa,Country,CAF,Central African Republic,Year,2013,TRUE,,,,,,,,,,,,,0.09,,,,,,0.09,,,EN,3/3/2014
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,AFR,Africa,Country,CAF,Central African Republic,Year,2010,FALSE,,,,,,,,,,,,,0.09,,,,,,0.09,,,EN,6/11/2013
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,AFR,Africa,Country,CIV,Cote d'Ivoire,Year,2013,TRUE,,,,,,,,,,,,,0.1,,,,,,0.1,,,EN,3/3/2014
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,AFR,Africa,Country,CIV,Cote d'Ivoire,Year,2010,FALSE,,,,,,,,,,,,,0.1,,,,,,0.1,,,EN,6/11/2013
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,AFR,Africa,Country,CMR,Cameroon,Year,2013,TRUE,,,,,,,,,,,,,0.04,,,,,,0.04,,,EN,3/3/2014
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,AFR,Africa,Country,CMR,Cameroon,Year,2010,FALSE,,,,,,,,,,,,,0.05,,,,,,0.05,,,EN,6/11/2013
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,AFR,Africa,Country,COM,Comoros,Year,2013,TRUE,,,,,,,,,,,,,0.14,,,,,,0.14,,Only public sector data,EN,3/3/2014
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,AFR,Africa,Country,COM,Comoros,Year,2010,FALSE,,,,,,,,,,,,,0.14,,,,,,0.14,,Only public sector data,EN,6/11/2013
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,AFR,Africa,Country,CPV,Cabo Verde,Year,2013,TRUE,,,,,,,,,,,,,0.4,,,,,,0.4,,,EN,3/3/2014
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,AFR,Africa,Country,CPV,Cabo Verde,Year,2010,FALSE,,,,,,,,,,,,,0.4,,,,,,0.4,,,EN,6/11/2013
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,AFR,Africa,Country,ERI,Eritrea,Year,2013,TRUE,,,,,,,,,,,,,0.02,,,,,,0.02,,,EN,3/3/2014
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,AFR,Africa,Country,ERI,Eritrea,Year,2010,FALSE,,,,,,,,,,,,,0.02,,,,,,0.02,,,EN,6/11/2013
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,AFR,Africa,Country,ETH,Ethiopia,Year,2013,TRUE,,,,,,,,,,,,,0.03,,,,,,0.03,,,EN,3/3/2014
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,AFR,Africa,Country,ETH,Ethiopia,Year,2010,FALSE,,,,,,,,,,,,,0.03,,,,,,0.03,,,EN,6/11/2013
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,AFR,Africa,Country,GAB,Gabon,Year,2013,TRUE,,,,,,,,,,,,,0.36,,,,,,0.36,,,EN,3/3/2014
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,AFR,Africa,Country,GAB,Gabon,Year,2010,FALSE,,,,,,,,,,,,,0.4,,,,,,0.4,,,EN,6/11/2013
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,AFR,Africa,Country,GHA,Ghana,Year,2013,TRUE,,,,,,,,,,,,,0.04,,,,,,0.03,,Only public sector data,EN,3/3/2014
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,AFR,Africa,Country,GHA,Ghana,Year,2010,FALSE,,,,,,,,,,,,,0.04,,,,,,0.04,,Only public sector data,EN,6/11/2013
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,AFR,Africa,Country,GIN,Guinea,Year,2013,TRUE,,,,,,,,,,,,,0.03,,,,,,0.03,,,EN,3/3/2014
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,AFR,Africa,Country,GIN,Guinea,Year,2010,FALSE,,,,,,,,,,,,,0.03,,,,,,0.03,,,EN,6/11/2013
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,AFR,Africa,Country,GMB,Gambia,Year,2013,TRUE,,,,,,,,,,,,,0.11,,,,,,0.11,,Only public sector data,EN,3/3/2014
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,AFR,Africa,Country,GMB,Gambia,Year,2010,FALSE,,,,,,,,,,,,,0.12,,,,,,0.12,,Only public sector data,EN,6/11/2013
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,AFR,Africa,Country,GNB,Guinea-Bissau,Year,2013,TRUE,,,,,,,,,,,,,30.81,,,,,,30.81,,,EN,3/3/2014
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,AFR,Africa,Country,GNB,Guinea-Bissau,Year,2010,FALSE,,,,,,,,,,,,,34.65,,,,,,34.65,,,EN,6/11/2013
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,AFR,Africa,Country,KEN,Kenya,Year,2013,TRUE,,,,,,,,,,,,,0.02,,,,,,0.02,,,EN,3/3/2014
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,AFR,Africa,Country,KEN,Kenya,Year,2010,FALSE,,,,,,,,,,,,,0.02,,,,,,0.02,,,EN,6/11/2013
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,AFR,Africa,Country,LBR,Liberia,Year,2013,TRUE,,,,,,,,,,,,,0.02,,,,,,0.02,,Only public sector data,EN,3/3/2014
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,AFR,Africa,Country,LBR,Liberia,Year,2010,FALSE,,,,,,,,,,,,,0.03,,,,,,0.03,,Only public sector data,EN,6/11/2013
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,AFR,Africa,Country,MDG,Madagascar,Year,2013,TRUE,,,,,,,,,,,,,0.03,,,,,,0.03,,Only public sector data,EN,3/3/2014
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,AFR,Africa,Country,MDG,Madagascar,Year,2010,FALSE,,,,,,,,,,,,,0.03,,,,,,0.03,,Only public sector data,EN,6/11/2013
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,AFR,Africa,Country,MLI,Mali,Year,2013,TRUE,,,,,,,,,,,,,0.03,,,,,,0.03,,Only public sector data,EN,3/3/2014
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,AFR,Africa,Country,MLI,Mali,Year,2010,FALSE,,,,,,,,,,,,,0.03,,,,,,0.03,,Only public sector data,EN,6/11/2013
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,AFR,Africa,Country,MRT,Mauritania,Year,2013,TRUE,,,,,,,,,,,,,0.18,,,,,,0.18,,Only public sector data,EN,3/3/2014
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,AFR,Africa,Country,MRT,Mauritania,Year,2010,FALSE,,,,,,,,,,,,,0.2,,,,,,0.2,,Only public sector data,EN,6/11/2013
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,AFR,Africa,Country,MUS,Mauritius,Year,2013,TRUE,,,,,,,,,,,,,0.4,,,,,,0.4,,Only public sector data,EN,3/3/2014
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,AFR,Africa,Country,MUS,Mauritius,Year,2010,FALSE,,,,,,,,,,,,,0.38,,,,,,0.38,,Only public sector data,EN,6/11/2013
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,AFR,Africa,Country,MWI,Malawi,Year,2013,TRUE,,,,,,,,,,,,,0.03,,,,,,0.03,,Only public sector data,EN,3/3/2014
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,AFR,Africa,Country,MWI,Malawi,Year,2010,FALSE,,,,,,,,,,,,,0.03,,,,,,0.03,,,EN,6/11/2013
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,AFR,Africa,Country,NAM,Namibia,Year,2013,TRUE,,,,,,,,,,,,,0.43,,,,,,0.43,,,EN,3/3/2014
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,AFR,Africa,Country,NAM,Namibia,Year,2010,FALSE,,,,,,,,,,,,,0.44,,,,,,0.44,,,EN,6/11/2013
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,AFR,Africa,Country,NER,Niger,Year,2013,TRUE,,,,,,,,,,,,,0.06,,,,,,0.06,,,EN,3/3/2014
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,AFR,Africa,Country,NER,Niger,Year,2010,FALSE,,,,,,,,,,,,,0.06,,,,,,0.06,,,EN,6/11/2013
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,AFR,Africa,Country,SWZ,Eswatini,Year,2013,TRUE,,,,,,,,,,,,,0.16,,,,,,0.16,,,EN,3/3/2014
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,AFR,Africa,Country,SWZ,Eswatini,Year,2010,FALSE,,,,,,,,,,,,,0.17,,,,,,0.17,,,EN,6/11/2013
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,AFR,Africa,Country,SYC,Seychelles,Year,2013,TRUE,,,,,,,,,,,,,1.08,,,,,,1.08,,Only public sector data,EN,3/3/2014
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,AFR,Africa,Country,SYC,Seychelles,Year,2010,FALSE,,,,,,,,,,,,,1.16,,,,,,1.16,,,EN,6/11/2013
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,AFR,Africa,Country,TCD,Chad,Year,2013,TRUE,,,,,,,,,,,,,0.01,,,,,,0.01,,,EN,3/3/2014
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,AFR,Africa,Country,TCD,Chad,Year,2010,FALSE,,,,,,,,,,,,,0.01,,,,,,0.01,,,EN,6/11/2013
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,AFR,Africa,Country,TGO,Togo,Year,2013,TRUE,,,,,,,,,,,,,0.09,,,,,,0.09,,Only public sector data,EN,3/3/2014
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,AFR,Africa,Country,TGO,Togo,Year,2010,FALSE,,,,,,,,,,,,,0.1,,,,,,0.1,,Only public sector data,EN,6/11/2013
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,AFR,Africa,Country,UGA,Uganda,Year,2013,TRUE,,,,,,,,,,,,,0.01,,,,,,0.01,,,EN,3/3/2014
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,AFR,Africa,Country,UGA,Uganda,Year,2010,FALSE,,,,,,,,,,,,,0.01,,,,,,0.01,,,EN,6/11/2013
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,AFR,Africa,Country,ZAF,South Africa,Year,2013,TRUE,,,,,,,,,,,,,0.03,,,,,,0.03,,Only public sector data,EN,3/3/2014
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,AFR,Africa,Country,ZAF,South Africa,Year,2010,FALSE,,,,,,,,,,,,,0.03,,,,,,0.03,,Only public sector data,EN,6/11/2013
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,AFR,Africa,Country,ZMB,Zambia,Year,2013,TRUE,,,,,,,,,,,,,0.03,,,,,,0.03,,,EN,3/3/2014
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,AFR,Africa,Country,ZMB,Zambia,Year,2010,FALSE,,,,,,,,,,,,,0.04,,,,,,0.04,,,EN,6/11/2013
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,AFR,Africa,Country,ZWE,Zimbabwe,Year,2013,TRUE,,,,,,,,,,,,,0.08,,,,,,0.08,,,EN,3/3/2014
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,AFR,Africa,Country,ZWE,Zimbabwe,Year,2010,FALSE,,,,,,,,,,,,,0.09,,,,,,0.09,,,EN,6/11/2013
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,AMR,Americas,Country,ATG,Antigua and Barbuda,Year,2013,TRUE,,,,,,,,,,,,,1.11,,,,,,1.11,,Only public sector data,EN,3/3/2014
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,AMR,Americas,Country,ATG,Antigua and Barbuda,Year,2010,FALSE,,,,,,,,,,,,,222.1,,,,,,222.07,,Only public sector data,EN,6/11/2013
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,AMR,Americas,Country,BHS,Bahamas,Year,2013,TRUE,,,,,,,,,,,,,0.26,,,,,,0.26,,,EN,3/3/2014
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,AMR,Americas,Country,BHS,Bahamas,Year,2010,FALSE,,,,,,,,,,,,,0.29,,,,,,0.29,,,EN,6/11/2013
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,AMR,Americas,Country,BLZ,Belize,Year,2013,TRUE,,,,,,,,,,,,,0.6,,,,,,0.6,,Only private sector data,EN,3/3/2014
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,AMR,Americas,Country,BLZ,Belize,Year,2010,FALSE,,,,,,,,,,,,,0.64,,,,,,0.64,,Only private sector data,EN,6/11/2013
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,AMR,Americas,Country,BOL,Bolivia (Plurinational State of),Year,2013,TRUE,,,,,,,,,,,,,0.29,,,,,,0.29,,,EN,3/3/2014
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,AMR,Americas,Country,BOL,Bolivia (Plurinational State of),Year,2010,FALSE,,,,,,,,,,,,,0.31,,,,,,0.31,,,EN,6/11/2013
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,AMR,Americas,Country,BRB,Barbados,Year,2013,TRUE,,,,,,,,,,,,,0.35,,,,,,0.35,,,EN,3/3/2014
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,AMR,Americas,Country,BRB,Barbados,Year,2010,FALSE,,,,,,,,,,,,,0.37,,,,,,0.37,,,EN,6/11/2013
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,AMR,Americas,Country,CAN,Canada,Year,2013,TRUE,,,,,,,,,,,,,0.13,,,,,,0.13,,Only public sector data,EN,3/3/2014
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,AMR,Americas,Country,CAN,Canada,Year,2010,FALSE,,,,,,,,,,,,,0.14,,,,,,0.14,,Only public sector data,EN,6/11/2013
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,AMR,Americas,Country,CHL,Chile,Year,2013,TRUE,,,,,,,,,,,,,0.35,,,,,,0.35,,Only public sector data,EN,3/3/2014
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,AMR,Americas,Country,CHL,Chile,Year,2010,FALSE,,,,,,,,,,,,,0.36,,,,,,0.36,,Only public sector data,EN,6/11/2013
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,AMR,Americas,Country,CRI,Costa Rica,Year,2013,TRUE,,,,,,,,,,,,,0.29,,,,,,0.29,,,EN,3/3/2014
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,AMR,Americas,Country,CRI,Costa Rica,Year,2010,FALSE,,,,,,,,,,,,,0.3,,,,,,0.3,,,EN,6/11/2013
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,AMR,Americas,Country,CUB,Cuba,Year,2013,TRUE,,,,,,,,,,,,,0.43,,,,,,0.43,,Only public sector data,EN,3/3/2014
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,AMR,Americas,Country,CUB,Cuba,Year,2010,FALSE,,,,,,,,,,,,,0.43,,,,,,0.43,,Only public sector data,EN,6/11/2013
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,AMR,Americas,Country,DMA,Dominica,Year,2013,TRUE,,,,,,,,,,,,,0,,,,,,0,,,EN,3/3/2014
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,AMR,Americas,Country,DMA,Dominica,Year,2010,FALSE,,,,,,,,,,,,,0,,,,,,0,,,EN,6/11/2013
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,AMR,Americas,Country,ECU,Ecuador,Year,2013,TRUE,,,,,,,,,,,,,0.1,,,,,,0.1,,Only public sector data,EN,3/3/2014
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,AMR,Americas,Country,ECU,Ecuador,Year,2010,FALSE,,,,,,,,,,,,,0.1,,,,,,0.1,,,EN,6/11/2013
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,AMR,Americas,Country,GRD,Grenada,Year,2013,TRUE,,,,,,,,,,,,,0,,,,,,0,,,EN,3/3/2014
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,AMR,Americas,Country,GRD,Grenada,Year,2010,FALSE,,,,,,,,,,,,,0,,,,,,0,,,EN,6/11/2013
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,AMR,Americas,Country,GTM,Guatemala,Year,2013,TRUE,,,,,,,,,,,,,0.03,,,,,,0.03,,Only public sector data,EN,3/3/2014
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,AMR,Americas,Country,GTM,Guatemala,Year,2010,FALSE,,,,,,,,,,,,,0.03,,,,,,0.03,,Only public sector data,EN,6/11/2013
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,AMR,Americas,Country,GUY,Guyana,Year,2013,TRUE,,,,,,,,,,,,,0.13,,,,,,0.13,,Only public sector data,EN,3/3/2014
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,AMR,Americas,Country,GUY,Guyana,Year,2010,FALSE,,,,,,,,,,,,,0.13,,,,,,0.13,,Only public sector data,EN,6/11/2013
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,AMR,Americas,Country,HND,Honduras,Year,2013,TRUE,,,,,,,,,,,,,0.09,,,,,,0.09,,Only public sector data,EN,3/3/2014
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,AMR,Americas,Country,HND,Honduras,Year,2010,FALSE,,,,,,,,,,,,,0.09,,,,,,0.09,,Only public sector data,EN,6/11/2013
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,AMR,Americas,Country,HTI,Haiti,Year,2013,TRUE,,,,,,,,,,,,,0.04,,,,,,0.04,,Only public sector data,EN,3/3/2014
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,AMR,Americas,Country,HTI,Haiti,Year,2010,FALSE,,,,,,,,,,,,,0.04,,,,,,0.04,,Only public sector data,EN,6/11/2013
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,AMR,Americas,Country,JAM,Jamaica,Year,2013,TRUE,,,,,,,,,,,,,0.07,,,,,,0.07,,Only public sector data,EN,3/3/2014
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,AMR,Americas,Country,JAM,Jamaica,Year,2010,FALSE,,,,,,,,,,,,,0.07,,,,,,0.07,,Only public sector data,EN,6/11/2013
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,AMR,Americas,Country,KNA,Saint Kitts and Nevis,Year,2013,TRUE,,,,,,,,,,,,,0,,,,,,0,,,EN,3/3/2014
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,AMR,Americas,Country,KNA,Saint Kitts and Nevis,Year,2010,FALSE,,,,,,,,,,,,,0,,,,,,0,,,EN,6/11/2013
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,AMR,Americas,Country,LCA,Saint Lucia,Year,2013,TRUE,,,,,,,,,,,,,1.65,,,,,,1.65,,,EN,3/3/2014
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,AMR,Americas,Country,LCA,Saint Lucia,Year,2010,FALSE,,,,,,,,,,,,,1.72,,,,,,1.72,,,EN,6/11/2013
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,AMR,Americas,Country,MEX,Mexico,Year,2013,TRUE,,,,,,,,,,,,,0.06,,,,,,0.06,,Only public sector data,EN,3/3/2014
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,AMR,Americas,Country,MEX,Mexico,Year,2010,FALSE,,,,,,,,,,,,,0.06,,,,,,0.06,,Only public sector data,EN,6/11/2013
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,AMR,Americas,Country,NIC,Nicaragua,Year,2013,TRUE,,,,,,,,,,,,,0.1,,,,,,0.1,,Only public sector data,EN,3/3/2014
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,AMR,Americas,Country,NIC,Nicaragua,Year,2010,FALSE,,,,,,,,,,,,,0.1,,,,,,0.1,,Only public sector data,EN,6/11/2013
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,AMR,Americas,Country,PAN,Panama,Year,2013,TRUE,,,,,,,,,,,,,0.18,,,,,,0.18,,Only public sector data,EN,3/3/2014
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,AMR,Americas,Country,PAN,Panama,Year,2010,FALSE,,,,,,,,,,,,,0.2,,,,,,0.2,,Only public sector data,EN,6/11/2013
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,AMR,Americas,Country,PRY,Paraguay,Year,2013,TRUE,,,,,,,,,,,,,0.25,,,,,,0.25,,Only public sector data,EN,3/3/2014
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,AMR,Americas,Country,PRY,Paraguay,Year,2010,FALSE,,,,,,,,,,,,,0.26,,,,,,0.26,,Only public sector data,EN,6/11/2013
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,AMR,Americas,Country,SLV,El Salvador,Year,2013,TRUE,,,,,,,,,,,,,0.05,,,,,,0.05,,Only public sector data,EN,3/3/2014
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,AMR,Americas,Country,SLV,El Salvador,Year,2010,FALSE,,,,,,,,,,,,,0.05,,,,,,0.05,,Only public sector data,EN,6/11/2013
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,AMR,Americas,Country,SUR,Suriname,Year,2013,TRUE,,,,,,,,,,,,,0.19,,,,,,0.19,,,EN,3/3/2014
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,AMR,Americas,Country,SUR,Suriname,Year,2010,FALSE,,,,,,,,,,,,,0.19,,,,,,0.19,,,EN,6/11/2013
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,AMR,Americas,Country,URY,Uruguay,Year,2013,TRUE,,,,,,,,,,,,,0.41,,,,,,0.41,,Only public sector data,EN,3/3/2014
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,AMR,Americas,Country,URY,Uruguay,Year,2010,FALSE,,,,,,,,,,,,,0.42,,,,,,0.42,,Only public sector data,EN,6/11/2013
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,AMR,Americas,Country,VCT,Saint Vincent and the Grenadines,Year,2013,TRUE,,,,,,,,,,,,,0,,,,,,0,,,EN,3/3/2014
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,AMR,Americas,Country,VCT,Saint Vincent and the Grenadines,Year,2010,FALSE,,,,,,,,,,,,,0,,,,,,0,,,EN,6/11/2013
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,EMR,Eastern Mediterranean,Country,AFG,Afghanistan,Year,2013,TRUE,,,,,,,,,,,,,0.09,,,,,,0.09,,Only public sector data,EN,3/3/2014
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,EMR,Eastern Mediterranean,Country,AFG,Afghanistan,Year,2010,FALSE,,,,,,,,,,,,,0.08,,,,,,0.08,,Only public sector data,EN,6/11/2013
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,EMR,Eastern Mediterranean,Country,EGY,Egypt,Year,2013,TRUE,,,,,,,,,,,,,0.12,,,,,,0.12,,Only public sector data,EN,3/3/2014
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,EMR,Eastern Mediterranean,Country,EGY,Egypt,Year,2010,FALSE,,,,,,,,,,,,,0.12,,,,,,0.12,,Only public sector data,EN,6/11/2013
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,EMR,Eastern Mediterranean,Country,IRQ,Iraq,Year,2013,TRUE,,,,,,,,,,,,,0.18,,,,,,0.18,,Only public sector data,EN,3/3/2014
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,EMR,Eastern Mediterranean,Country,IRQ,Iraq,Year,2010,FALSE,,,,,,,,,,,,,0.19,,,,,,0.19,,Only public sector data,EN,6/11/2013
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,EMR,Eastern Mediterranean,Country,JOR,Jordan,Year,2013,TRUE,,,,,,,,,,,,,0.11,,,,,,0.11,,,EN,3/3/2014
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,EMR,Eastern Mediterranean,Country,JOR,Jordan,Year,2010,FALSE,,,,,,,,,,,,,0.13,,,,,,0.13,,,EN,6/11/2013
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,EMR,Eastern Mediterranean,Country,LBN,Lebanon,Year,2013,TRUE,,,,,,,,,,,,,0.66,,,,,,0.66,,,EN,3/3/2014
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,EMR,Eastern Mediterranean,Country,LBN,Lebanon,Year,2010,FALSE,,,,,,,,,,,,,0.76,,,,,,0.76,,,EN,6/11/2013
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,EMR,Eastern Mediterranean,Country,LBY,Libya,Year,2013,TRUE,,,,,,,,,,,,,0.5,,,,,,0.5,,Only public sector data,EN,3/3/2014
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,EMR,Eastern Mediterranean,Country,LBY,Libya,Year,2010,FALSE,,,,,,,,,,,,,0.49,,,,,,0.49,,Only public sector data,EN,6/11/2013
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,EMR,Eastern Mediterranean,Country,OMN,Oman,Year,2013,TRUE,,,,,,,,,,,,,0.11,,,,,,0.11,,Only public sector data,EN,3/3/2014
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,EMR,Eastern Mediterranean,Country,OMN,Oman,Year,2010,FALSE,,,,,,,,,,,,,0.14,,,,,,0.14,,Only public sector data,EN,6/11/2013
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,EMR,Eastern Mediterranean,Country,PAK,Pakistan,Year,2013,TRUE,,,,,,,,,,,,,0.1,,,,,,0.1,,,EN,3/3/2014
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,EMR,Eastern Mediterranean,Country,PAK,Pakistan,Year,2010,FALSE,,,,,,,,,,,,,0.1,,,,,,0.1,,,EN,6/11/2013
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,EMR,Eastern Mediterranean,Country,SAU,Saudi Arabia,Year,2013,TRUE,,,,,,,,,,,,,0.01,,,,,,0.01,,Only public sector data,EN,3/3/2014
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,EMR,Eastern Mediterranean,Country,SAU,Saudi Arabia,Year,2010,FALSE,,,,,,,,,,,,,0.01,,,,,,0.01,,Only public sector data,EN,6/11/2013
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,EMR,Eastern Mediterranean,Country,SDN,Sudan,Year,2013,TRUE,,,,,,,,,,,,,0.03,,,,,,0.03,,Only public sector data,EN,3/3/2014
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,EMR,Eastern Mediterranean,Country,SDN,Sudan,Year,2010,FALSE,,,,,,,,,,,,,0.03,,,,,,0.03,,Only public sector data,EN,6/11/2013
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,EMR,Eastern Mediterranean,Country,TUN,Tunisia,Year,2013,TRUE,,,,,,,,,,,,,0.27,,,,,,0.27,,Only public sector data,EN,3/3/2014
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,EMR,Eastern Mediterranean,Country,TUN,Tunisia,Year,2010,FALSE,,,,,,,,,,,,,0.29,,,,,,0.29,,Only public sector data,EN,6/11/2013
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,EMR,Eastern Mediterranean,Country,YEM,Yemen,Year,2013,TRUE,,,,,,,,,,,,,0.01,,,,,,0.01,,,EN,3/3/2014
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,EMR,Eastern Mediterranean,Country,YEM,Yemen,Year,2010,FALSE,,,,,,,,,,,,,0.01,,,,,,0.01,,,EN,6/11/2013
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,EUR,Europe,Country,ALB,Albania,Year,2013,TRUE,,,,,,,,,,,,,0.28,,,,,,0.28,,,EN,3/3/2014
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,EUR,Europe,Country,ALB,Albania,Year,2010,FALSE,,,,,,,,,,,,,0.28,,,,,,0.28,,,EN,6/11/2013
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,EUR,Europe,Country,ARM,Armenia,Year,2013,TRUE,,,,,,,,,,,,,0.64,,,,,,0.64,,,EN,3/3/2014
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,EUR,Europe,Country,ARM,Armenia,Year,2010,FALSE,,,,,,,,,,,,,0.61,,,,,,0.61,,,EN,6/11/2013
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,EUR,Europe,Country,AZE,Azerbaijan,Year,2013,TRUE,,,,,,,,,,,,,0.53,,,,,,0.53,,Only public sector data,EN,3/3/2014
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,EUR,Europe,Country,AZE,Azerbaijan,Year,2010,FALSE,,,,,,,,,,,,,0.54,,,,,,0.54,,Only public sector data,EN,6/11/2013
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,EUR,Europe,Country,BIH,Bosnia and Herzegovina,Year,2013,TRUE,,,,,,,,,,,,,0.13,,,,,,0.13,,,EN,3/3/2014
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,EUR,Europe,Country,BIH,Bosnia and Herzegovina,Year,2010,FALSE,,,,,,,,,,,,,0.13,,,,,,0.13,,,EN,6/11/2013
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,EUR,Europe,Country,BLR,Belarus,Year,2013,TRUE,,,,,,,,,,,,,0.55,,,,,,0.55,,Only public sector data,EN,3/3/2014
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,EUR,Europe,Country,BLR,Belarus,Year,2010,FALSE,,,,,,,,,,,,,0.53,,,,,,0.53,,Only public sector data,EN,6/11/2013
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,EUR,Europe,Country,CYP,Cyprus,Year,2013,TRUE,,,,,,,,,,,,,0.61,,,,,,0.61,,,EN,3/3/2014
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,EUR,Europe,Country,CYP,Cyprus,Year,2010,FALSE,,,,,,,,,,,,,0.63,,,,,,0.63,,,EN,6/11/2013
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,EUR,Europe,Country,CZE,Czechia,Year,2013,TRUE,,,,,,,,,,,,,0.25,,,,,,0.25,,,EN,3/3/2014
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,EUR,Europe,Country,CZE,Czechia,Year,2010,FALSE,,,,,,,,,,,,,0.26,,,,,,0.26,,,EN,6/11/2013
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,EUR,Europe,Country,DNK,Denmark,Year,2013,TRUE,,,,,,,,,,,,,0.09,,,,,,0.09,,Only public sector data,EN,3/3/2014
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,EUR,Europe,Country,DNK,Denmark,Year,2010,FALSE,,,,,,,,,,,,,0.09,,,,,,0.09,,Only public sector data,EN,6/11/2013
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,EUR,Europe,Country,ESP,Spain,Year,2013,TRUE,,,,,,,,,,,,,0.16,,,,,,0.16,,,EN,3/3/2014
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,EUR,Europe,Country,ESP,Spain,Year,2010,FALSE,,,,,,,,,,,,,0.16,,,,,,0.16,,,EN,6/11/2013
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,EUR,Europe,Country,EST,Estonia,Year,2013,TRUE,,,,,,,,,,,,,0.23,,,,,,0.23,,Only public sector data,EN,3/3/2014
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,EUR,Europe,Country,EST,Estonia,Year,2010,FALSE,,,,,,,,,,,,,0.22,,,,,,0.22,,Only public sector data,EN,6/11/2013
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,EUR,Europe,Country,FIN,Finland,Year,2013,TRUE,,,,,,,,,,,,,0.09,,,,,,0.09,,,EN,3/3/2014
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,EUR,Europe,Country,FIN,Finland,Year,2010,FALSE,,,,,,,,,,,,,0.09,,,,,,0.09,,,EN,6/11/2013
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,EUR,Europe,Country,GEO,Georgia,Year,2013,TRUE,,,,,,,,,,,,,2.21,,,,,,2.21,,,EN,3/3/2014
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,EUR,Europe,Country,GEO,Georgia,Year,2010,FALSE,,,,,,,,,,,,,2.21,,,,,,2.21,,,EN,6/11/2013
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,EUR,Europe,Country,HRV,Croatia,Year,2013,TRUE,,,,,,,,,,,,,0.35,,,,,,0.35,,Only public sector data,EN,3/3/2014
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,EUR,Europe,Country,HRV,Croatia,Year,2010,FALSE,,,,,,,,,,,,,0.34,,,,,,0.34,,Only public sector data,EN,6/11/2013
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,EUR,Europe,Country,HUN,Hungary,Year,2013,TRUE,,,,,,,,,,,,,0.11,,,,,,0.11,,Only public sector data,EN,3/3/2014
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,EUR,Europe,Country,HUN,Hungary,Year,2010,FALSE,,,,,,,,,,,,,0.11,,,,,,0.11,,Only public sector data,EN,6/11/2013
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,EUR,Europe,Country,ISL,Iceland,Year,2013,TRUE,,,,,,,,,,,,,0.61,,,,,,0.61,,Only public sector data,EN,3/3/2014
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,EUR,Europe,Country,ISL,Iceland,Year,2010,FALSE,,,,,,,,,,,,,0.62,,,,,,0.62,,Only public sector data,EN,6/11/2013
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,EUR,Europe,Country,ISR,Israel,Year,2013,TRUE,,,,,,,,,,,,,0.08,,,,,,0.08,,Only public sector data,EN,3/3/2014
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,EUR,Europe,Country,ISR,Israel,Year,2010,FALSE,,,,,,,,,,,,,0.08,,,,,,0.08,,Only public sector data,EN,6/11/2013
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,EUR,Europe,Country,ITA,Italy,Year,2013,TRUE,,,,,,,,,,,,,0.14,,,,,,0.14,,,EN,3/3/2014
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,EUR,Europe,Country,ITA,Italy,Year,2010,FALSE,,,,,,,,,,,,,0.14,,,,,,0.14,,,EN,6/11/2013
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,EUR,Europe,Country,KAZ,Kazakhstan,Year,2013,TRUE,,,,,,,,,,,,,0.16,,,,,,0.16,,Only public sector data,EN,3/3/2014
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,EUR,Europe,Country,KAZ,Kazakhstan,Year,2010,FALSE,,,,,,,,,,,,,0.17,,,,,,0.17,,,EN,6/11/2013
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,EUR,Europe,Country,KGZ,Kyrgyzstan,Year,2013,TRUE,,,,,,,,,,,,,0.7,,,,,,0.7,,Only public sector data,EN,3/3/2014
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,EUR,Europe,Country,KGZ,Kyrgyzstan,Year,2010,FALSE,,,,,,,,,,,,,0.73,,,,,,0.73,,Only public sector data,EN,6/11/2013
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,EUR,Europe,Country,LTU,Lithuania,Year,2013,TRUE,,,,,,,,,,,,,0.5,,,,,,0.5,,,EN,3/3/2014
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,EUR,Europe,Country,LTU,Lithuania,Year,2010,FALSE,,,,,,,,,,,,,1.32,,,,,,1.32,,,EN,6/11/2013
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,EUR,Europe,Country,LUX,Luxembourg,Year,2013,TRUE,,,,,,,,,,,,,0.75,,,,,,0.75,,,EN,3/3/2014
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,EUR,Europe,Country,LUX,Luxembourg,Year,2010,FALSE,,,,,,,,,,,,,0.79,,,,,,0.79,,,EN,6/11/2013
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,EUR,Europe,Country,LVA,Latvia,Year,2013,TRUE,,,,,,,,,,,,,0.73,,,,,,0.73,,Only public sector data,EN,3/3/2014
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,EUR,Europe,Country,LVA,Latvia,Year,2010,FALSE,,,,,,,,,,,,,0.67,,,,,,0.67,,Only public sector data,EN,6/11/2013
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,EUR,Europe,Country,MDA,Republic of Moldova,Year,2013,TRUE,,,,,,,,,,,,,0.49,,,,,,0.49,,,EN,3/3/2014
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,EUR,Europe,Country,MDA,Republic of Moldova,Year,2010,FALSE,,,,,,,,,,,,,0.5,,,,,,0.5,,Only public sector data,EN,6/11/2013
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,EUR,Europe,Country,MKD,North Macedonia,Year,2014,TRUE,,,,,,,,,,,,,1.66,,,,,,1.66,,Only public sector data,EN,1/28/2016
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,EUR,Europe,Country,MLT,Malta,Year,2013,TRUE,,,,,,,,,,,,,0.23,,,,,,0.23,,,EN,3/3/2014
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,EUR,Europe,Country,MLT,Malta,Year,2010,FALSE,,,,,,,,,,,,,0.24,,,,,,0.24,,,EN,6/11/2013
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,EUR,Europe,Country,MNE,Montenegro,Year,2013,TRUE,,,,,,,,,,,,,0.16,,,,,,0.16,,Only public sector data,EN,3/3/2014
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,EUR,Europe,Country,MNE,Montenegro,Year,2010,FALSE,,,,,,,,,,,,,0.16,,,,,,0.16,,Only public sector data,EN,6/11/2013
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,EUR,Europe,Country,NLD,Netherlands (Kingdom of the),Year,2013,TRUE,,,,,,,,,,,,,0.76,,,,,,0.76,,Only public sector data,EN,3/3/2014
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,EUR,Europe,Country,NLD,Netherlands (Kingdom of the),Year,2010,FALSE,,,,,,,,,,,,,0.77,,,,,,0.77,,Only public sector data,EN,6/11/2013
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,EUR,Europe,Country,POL,Poland,Year,2013,TRUE,,,,,,,,,,,,,0.15,,,,,,0.15,,Only public sector data,EN,3/3/2014
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,EUR,Europe,Country,POL,Poland,Year,2010,FALSE,,,,,,,,,,,,,0.15,,,,,,0.15,,Only public sector data,EN,6/11/2013
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,EUR,Europe,Country,ROU,Romania,Year,2013,TRUE,,,,,,,,,,,,,0.75,,,,,,0.75,,Only public sector data,EN,3/3/2014
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,EUR,Europe,Country,ROU,Romania,Year,2010,FALSE,,,,,,,,,,,,,0.76,,,,,,0.76,,Only public sector data,EN,6/11/2013
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,EUR,Europe,Country,SMR,San Marino,Year,2013,TRUE,,,,,,,,,,,,,0,,,,,,0,,Only public sector data,EN,3/3/2014
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,EUR,Europe,Country,SMR,San Marino,Year,2010,FALSE,,,,,,,,,,,,,0,,,,,,0,,Only public sector data,EN,6/11/2013
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,EUR,Europe,Country,SRB,Serbia,Year,2013,TRUE,,,,,,,,,,,,,0.24,,,,,,0.24,,Only public sector data,EN,3/3/2014
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,EUR,Europe,Country,SRB,Serbia,Year,2010,FALSE,,,,,,,,,,,,,0.23,,,,,,0.23,,Only public sector data,EN,6/11/2013
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,EUR,Europe,Country,SVK,Slovakia,Year,2013,TRUE,,,,,,,,,,,,,0.95,,,,,,0.95,,Only public sector data,EN,3/3/2014
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,EUR,Europe,Country,SVK,Slovakia,Year,2010,FALSE,,,,,,,,,,,,,0.95,,,,,,0.95,,Only public sector data,EN,6/11/2013
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,EUR,Europe,Country,SVN,Slovenia,Year,2013,TRUE,,,,,,,,,,,,,0.1,,,,,,0.1,,,EN,3/3/2014
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,EUR,Europe,Country,SVN,Slovenia,Year,2010,FALSE,,,,,,,,,,,,,0.1,,,,,,0.1,,Only public sector data,EN,6/11/2013
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,EUR,Europe,Country,TJK,Tajikistan,Year,2013,TRUE,,,,,,,,,,,,,0.04,,,,,,0.04,,Only public sector data,EN,3/3/2014
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,EUR,Europe,Country,TJK,Tajikistan,Year,2010,FALSE,,,,,,,,,,,,,0.04,,,,,,0.04,,,EN,6/11/2013
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,EUR,Europe,Country,TUR,Türkiye,Year,2013,TRUE,,,,,,,,,,,,,0.32,,,,,,0.32,,,EN,3/3/2014
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,EUR,Europe,Country,TUR,Türkiye,Year,2010,FALSE,,,,,,,,,,,,,0.33,,,,,,0.33,,,EN,6/11/2013
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,SEAR,South-East Asia,Country,BGD,Bangladesh,Year,2013,TRUE,,,,,,,,,,,,,0.04,,,,,,0.04,,,EN,3/3/2014
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,SEAR,South-East Asia,Country,BGD,Bangladesh,Year,2010,FALSE,,,,,,,,,,,,,0.05,,,,,,0.05,,,EN,6/11/2013
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,SEAR,South-East Asia,Country,BTN,Bhutan,Year,2013,TRUE,,,,,,,,,,,,,0.13,,,,,,0.13,,Only public sector data,EN,3/3/2014
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,SEAR,South-East Asia,Country,BTN,Bhutan,Year,2010,FALSE,,,,,,,,,,,,,0.14,,,,,,0.14,,Only public sector data,EN,6/11/2013
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,SEAR,South-East Asia,Country,MMR,Myanmar,Year,2013,TRUE,,,,,,,,,,,,,0.05,,,,,,0.05,,Only public sector data,EN,3/3/2014
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,SEAR,South-East Asia,Country,MMR,Myanmar,Year,2010,FALSE,,,,,,,,,,,,,0.06,,,,,,0.06,,Only public sector data,EN,6/11/2013
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,SEAR,South-East Asia,Country,NPL,Nepal,Year,2013,TRUE,,,,,,,,,,,,,0.04,,,,,,0.04,,Only public sector data,EN,3/3/2014
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,SEAR,South-East Asia,Country,NPL,Nepal,Year,2010,FALSE,,,,,,,,,,,,,0.04,,,,,,0.04,,Only public sector data,EN,6/11/2013
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,SEAR,South-East Asia,Country,THA,Thailand,Year,2013,TRUE,,,,,,,,,,,,,0.13,,,,,,0.13,,,EN,3/3/2014
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,SEAR,South-East Asia,Country,THA,Thailand,Year,2010,FALSE,,,,,,,,,,,,,0.12,,,,,,0.12,,,EN,6/11/2013
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,WPR,Western Pacific,Country,BRN,Brunei Darussalam,Year,2013,TRUE,,,,,,,,,,,,,0.24,,,,,,0.24,,Only private sector data,EN,3/3/2014
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,WPR,Western Pacific,Country,BRN,Brunei Darussalam,Year,2010,FALSE,,,,,,,,,,,,,0.25,,,,,,0.25,,Only private sector data,EN,6/11/2013
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,WPR,Western Pacific,Country,CHN,China,Year,2010,TRUE,,,,,,,,,,,,,0,,,,,,0,,,EN,6/11/2013
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,WPR,Western Pacific,Country,FJI,Fiji,Year,2013,TRUE,,,,,,,,,,,,,0,,,,,,0,,,EN,3/3/2014
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,WPR,Western Pacific,Country,FJI,Fiji,Year,2010,FALSE,,,,,,,,,,,,,0,,,,,,0,,,EN,6/11/2013
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,WPR,Western Pacific,Country,FSM,Micronesia (Federated States of),Year,2013,TRUE,,,,,,,,,,,,,0,,,,,,0,,,EN,3/3/2014
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,WPR,Western Pacific,Country,FSM,Micronesia (Federated States of),Year,2010,FALSE,,,,,,,,,,,,,0,,,,,,0,,,EN,6/11/2013
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,WPR,Western Pacific,Country,KHM,Cambodia,Year,2013,TRUE,,,,,,,,,,,,,0.06,,,,,,0.06,,Only public sector data,EN,3/3/2014
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,WPR,Western Pacific,Country,KHM,Cambodia,Year,2010,FALSE,,,,,,,,,,,,,0.06,,,,,,0.06,,Only public sector data,EN,6/11/2013
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,WPR,Western Pacific,Country,KIR,Kiribati,Year,2013,TRUE,,,,,,,,,,,,,0,,,,,,0,,,EN,3/3/2014
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,WPR,Western Pacific,Country,KIR,Kiribati,Year,2010,FALSE,,,,,,,,,,,,,0,,,,,,0,,,EN,6/11/2013
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,WPR,Western Pacific,Country,KOR,Republic of Korea,Year,2013,TRUE,,,,,,,,,,,,,0.09,,,,,,0.09,,Only private sector data,EN,3/3/2014
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,WPR,Western Pacific,Country,KOR,Republic of Korea,Year,2010,FALSE,,,,,,,,,,,,,0.09,,,,,,0.09,,,EN,6/11/2013
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,WPR,Western Pacific,Country,LAO,Lao People's Democratic Republic,Year,2013,TRUE,,,,,,,,,,,,,0.1,,,,,,0.1,,Only public sector data,EN,3/3/2014
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,WPR,Western Pacific,Country,LAO,Lao People's Democratic Republic,Year,2010,FALSE,,,,,,,,,,,,,0.11,,,,,,0.11,,Only public sector data,EN,6/11/2013
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,WPR,Western Pacific,Country,MHL,Marshall Islands,Year,2013,TRUE,,,,,,,,,,,,,0,,,,,,0,,,EN,3/3/2014
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,WPR,Western Pacific,Country,MHL,Marshall Islands,Year,2010,FALSE,,,,,,,,,,,,,0,,,,,,0,,,EN,6/11/2013
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,WPR,Western Pacific,Country,MYS,Malaysia,Year,2013,TRUE,,,,,,,,,,,,,0.08,,,,,,0.08,,Only public sector data,EN,3/3/2014
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,WPR,Western Pacific,Country,MYS,Malaysia,Year,2010,FALSE,,,,,,,,,,,,,0.08,,,,,,0.08,,Only public sector data,EN,6/11/2013
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,WPR,Western Pacific,Country,PHL,Philippines,Year,2013,TRUE,,,,,,,,,,,,,0.12,,,,,,0.12,,,EN,3/3/2014
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,WPR,Western Pacific,Country,PHL,Philippines,Year,2010,FALSE,,,,,,,,,,,,,0.13,,,,,,0.13,,,EN,6/11/2013
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,WPR,Western Pacific,Country,PNG,Papua New Guinea,Year,2013,TRUE,,,,,,,,,,,,,0.1,,,,,,0.1,,,EN,3/3/2014
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,WPR,Western Pacific,Country,PNG,Papua New Guinea,Year,2010,FALSE,,,,,,,,,,,,,0.1,,,,,,0.1,,,EN,6/11/2013
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,WPR,Western Pacific,Country,TUV,Tuvalu,Year,2014,TRUE,,,,,,,,,,,,,0.02,,,,,,0.02,,Only public sector data,EN,1/28/2016
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,WPR,Western Pacific,Country,VUT,Vanuatu,Year,2013,TRUE,,,,,,,,,,,,,0.4,,,,,,0.4,,,EN,3/3/2014
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,WPR,Western Pacific,Country,VUT,Vanuatu,Year,2010,FALSE,,,,,,,,,,,,,0.42,,,,,,0.42,,,EN,6/11/2013
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,WPR,Western Pacific,Country,WSM,Samoa,Year,2013,TRUE,,,,,,,,,,,,,0.53,,,,,,0.53,,,EN,3/3/2014
+DEVICES05,Total density per 100 000 population: Specialized hospitals,numeric,WPR,Western Pacific,Country,WSM,Samoa,Year,2010,FALSE,,,,,,,,,,,,,0.55,,,,,,0.55,,,EN,6/11/2013
