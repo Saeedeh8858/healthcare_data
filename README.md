@@ -11,7 +11,7 @@ How can we forecast critical shortages and healthcare needs for medicines and su
 1. **Data Collection & Cleaning**
    - Sources: WHO, World Bank, and other global health datasets.
    - Features: Disease prevalence (diabetes, obesity, hypertension), behavioral risk factors (smoking, inactivity), healthcare infrastructure, population demographics.
-   - Standardizes country names and codes, handles missing values, merges datasets.
+   - Standardizes country names and codes, handles missing values, and merges datasets.
 
 2. **Feature Engineering**
    - Constructs new variables (elderly ratio, health access index, demand per million).
@@ -36,9 +36,9 @@ How can we forecast critical shortages and healthcare needs for medicines and su
 ## Main Research Questions
 
 1. **Early Warning System:** Predict critical shortages of essential medicines in low-resource countries.
-2. **Health Access Index:** Forecast and improve national health access index using demographic, behavioral, and economic data.
+2. **Health Access Index:** Forecast and improve the national health access index using demographic, behavioral, and economic data.
 3. **Health Index Prediction:** Predict a country's overall health index based on behavioral and environmental health factors.
-4. **Healthcare Needs Estimation:** Estimate national healthcare needs by modeling elderly ratio, healthcare access, economic indicators, and tobacco control.
+4. **Healthcare Needs Estimation:** Estimate national healthcare needs by modeling the elderly ratio, healthcare access, economic indicators, and tobacco control.
 5. **Infrastructure Access:** Predict health infrastructure access from age demographics and income.
 6. **Diabetes Care Equity:** Assess equity of diabetes care across countries with different income levels and infrastructures.
 7. **Health Access Index Prediction:** Predict a country's health access index using demographic, behavioral risk factors, and economic indicators.
@@ -57,7 +57,7 @@ How can we forecast critical shortages and healthcare needs for medicines and su
 
 2. **Run the main script:**
    ```sh
-   python copy_of_thesis.py
+   python Medical_Supplies_Prediction.py
    ```
 
 3. **Outputs:**
@@ -67,7 +67,7 @@ How can we forecast critical shortages and healthcare needs for medicines and su
 
 ## File Structure
 
-- [`copy_of_thesis.py`](copy_of_thesis.py): Main analysis and modeling pipeline.
+- [`Medical_Supplies_Prediction`](Medical_Supplies_Prediction.py): Main analysis and modeling pipeline.
 - `README.md`: Project overview and instructions.
 - `requirements.txt`: Python dependencies (optional).
 - Data files: Downloaded and processed CSVs.
@@ -93,7 +93,7 @@ Special thanks to [Prof. Dr. Iftikhar Ahmed ](https://www.linkedin.com/in/iftikh
 
 - [Colab Notebook] (https://colab.research.google.com/drive/1R7iJZVAyovOUgnup7aFc1Mzy_WWzdJW1)
 - [Overleaf Paper] (https://www.overleaf.com/project/686ec339fdbd3b759619da62)
-- [Overleaf PDF] (https://github.com/Saeedeh8858/facial-emotion-recognition-ml/blob/main/Machine_Learning_B_Facial_Emotion_Recognition.pdf)
+- [Overleaf PDF] (https://github.com/Saeedeh8858/healthcare_data/blob/main/Medical_Supplies_Prediction.pdf)
 
 **Author:**  
 Saeedeh Alamkar
